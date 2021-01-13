@@ -1,7 +1,8 @@
-### Hi there 👋
+# Hi there 🌻
 
+## I'm Bernice 🐝
 
-- 🔭 I’m currently studying Creative Computing @ IADT
+### I'm currently a third year student of Creative Computing @ IADT 👩🏻‍💻
 
 ```javascript
 const bernice = {
