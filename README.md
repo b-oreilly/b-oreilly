@@ -2,8 +2,6 @@
 
 
 - 🔭 I’m currently studying Creative Computing @ IADT
-- 🌱 I’m currently learning ...
-- 😄 Pronouns: she/her
 
 ```javascript
 const bernice = {
