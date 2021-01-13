@@ -1,6 +1,4 @@
-# Hi there 🌻
-
-## I'm Bernice 🐝
+# 👋 Hey, I'm Bernice 🐝
 
 ### I'm currently a third year student of Creative Computing @ IADT 👩🏻‍💻
 
