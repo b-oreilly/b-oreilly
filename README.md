@@ -7,7 +7,7 @@
 const bernice = {
   about: "Currently studying Creative Computing @ IADT 👩🏻‍💻"
   pronouns: "she" | "her",
-  learning: [p5.js, Vue, Laravel],
+  learning: [p5, Vue, Laravel],
     technologies: {
         frontend: {
             frameworks: Vue,
