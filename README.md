@@ -10,6 +10,7 @@ const bernice = {
   learning: [p5, Vue, Laravel],
     technologies: {
         frontend: {
+            libraries: p5,
             frameworks: Vue,
             css: Bootstrap,
         },
