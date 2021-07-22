@@ -5,7 +5,7 @@
 
 ```javascript
 const bernice = {
-  about: "Currently studying Creative Computing @ IADT 👩🏻‍💻"
+  about: "Student of BSc Creative Computing @ IADT 👩🏻‍💻"
   pronouns: "she" | "her",
     technologies: {
         frontend: {
