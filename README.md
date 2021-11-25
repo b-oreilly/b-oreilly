@@ -6,6 +6,11 @@
  -->
  
  <!--START_SECTION:waka-->
+```text
+Vue.js       21 mins         ████████████████████░░░░░   79.64 % 
+JavaScript   4 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
+JSON         1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
+```
 <!--END_SECTION:waka-->
 
 <h3 align="left">Languages and Tools:</h3>
