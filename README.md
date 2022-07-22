@@ -12,7 +12,10 @@
  <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Vue.js       29 mins         ████████████████████████▒   97.13 %
+TypeScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
+JavaScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
 ```
 
 <!--END_SECTION:waka-->
