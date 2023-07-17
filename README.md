@@ -29,4 +29,10 @@ const b = {
  
  <!--START_SECTION:waka-->
 
+```txt
+HTML         34 mins         ██████████░░░░░░░░░░░░░░░   39.93 %
+JavaScript   28 mins         ████████░░░░░░░░░░░░░░░░░   32.65 %
+CSS          23 mins         ███████░░░░░░░░░░░░░░░░░░   27.42 %
+```
+
 <!--END_SECTION:waka-->
