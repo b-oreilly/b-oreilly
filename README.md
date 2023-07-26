@@ -30,9 +30,7 @@ const b = {
  <!--START_SECTION:waka-->
 
 ```txt
-HTML         0 secs          ███████████████████████▒░   93.61 %
-CSS          0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 %
-JavaScript   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
+HTML   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
