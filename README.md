@@ -30,7 +30,10 @@ const b = {
  <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Other        0 secs          ███████████████▒░░░░░░░░░   60.81 %
+HTML         0 secs          █████▓░░░░░░░░░░░░░░░░░░░   22.64 %
+JavaScript   0 secs          ███▓░░░░░░░░░░░░░░░░░░░░░   14.84 %
+CSS          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
 ```
 
 <!--END_SECTION:waka-->
