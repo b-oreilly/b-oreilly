@@ -30,7 +30,8 @@ const b = {
  <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+JSON    12 mins         ████████████████████████▓   98.77 %
+Other   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
 ```
 
 <!--END_SECTION:waka-->
