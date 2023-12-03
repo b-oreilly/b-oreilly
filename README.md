@@ -30,8 +30,7 @@ const b = {
  <!--START_SECTION:waka-->
 
 ```txt
-JSON    31 mins         ███████████████████░░░░░░   75.60 %
-Other   10 mins         ██████░░░░░░░░░░░░░░░░░░░   24.40 %
+Other   10 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
