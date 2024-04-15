@@ -1,5 +1,5 @@
  # Hey, I'm Bernice 👋👩🏻‍💻🐝 <br>
-### Customer Support Engineer at <a href="https://www.intercom.com">Intercom</a>
+### Technical Support Engineer at <a href="https://www.intercom.com">Intercom</a>
   
 [![Linkedin: bernice-o-reilly](https://img.shields.io/badge/-berniceoreilly-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bernice-o-reilly-551137161//)](https://www.linkedin.com/in/bernice-o-reilly-551137161/)
 
