@@ -9,7 +9,6 @@
 const b = {
     pronouns: "She" | "Her",
     code: ["Javascript", "PHP"],
-    askMeAbout: ["web dev", "dogs", "photography"],
     technologies: {
         frontEnd: {
             js: ["Vue", "Nuxt"],
