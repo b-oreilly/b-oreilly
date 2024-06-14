@@ -29,11 +29,7 @@ const b = {
  <!--START_SECTION:waka-->
 
 ```txt
-Vue.js       12 mins         ████████████████▒░░░░░░░░   65.85 %
-Other        4 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.30 %
-JSON         0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 %
-JavaScript   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
