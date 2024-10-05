@@ -29,7 +29,8 @@ const b = {
  <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+HTML    4 mins          ███████████████████████░░   91.95 %
+Other   0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 %
 ```
 
 <!--END_SECTION:waka-->
