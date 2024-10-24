@@ -1,7 +1,7 @@
  # Hey, I'm Bernice 👋👩🏻‍💻🐝 <br>
 ### Technical Support Engineer at <a href="https://www.intercom.com">Intercom</a>
   
-[![Linkedin: bernice-o-reilly](https://img.shields.io/badge/-berniceoreilly-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bernice-o-reilly-551137161//)](https://www.linkedin.com/in/bernice-o-reilly-551137161/)
+[![Linkedin: bernice-o-reilly](https://img.shields.io/badge/-berniceoreilly-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/b-oreilly/)](https://www.linkedin.com/in/b-oreilly/)
 
 <!-- [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://b-oreilly.github.io/)](http://b-oreilly.github.io/) -->
 
