@@ -29,7 +29,8 @@ const b = {
  <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Kotlin   1 min           ██████████████░░░░░░░░░░░   56.07 %
+Groovy   0 secs          ███████████░░░░░░░░░░░░░░   43.93 %
 ```
 
 <!--END_SECTION:waka-->
